@@ -1,1 +1,6 @@
-This is a [Vite](https://vitejs.dev) project bootstrapped with [`create-wagmi`](https://github.com/wevm/wagmi/tree/main/packages/create-wagmi).
+Dapp demo 
+Tug War Game
+
+技术栈
+前端：react
+智能合约：solidity
